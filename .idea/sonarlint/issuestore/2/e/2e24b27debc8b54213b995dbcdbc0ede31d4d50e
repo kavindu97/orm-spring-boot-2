@@ -1,0 +1,7 @@
+
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8åÀµÏ1
+o
+java:S6204*"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ÃÂÌ®8èÀµÏ1
+O
+java:S1068"2Remove this unused "userRepository" private field.(¼²Æ÷8éÀµÏ1
